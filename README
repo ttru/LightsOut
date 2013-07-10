@@ -1,0 +1,5 @@
+LightsOut
+
+This is just a small program to simulate the puzzle game Lights Out.
+The lights are "out" when the checkboxes are selected.
+May update checkboxes to other components.
